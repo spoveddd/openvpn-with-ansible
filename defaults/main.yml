@@ -4,6 +4,7 @@ openvpn_dir: "/etc/openvpn"
 openvpn_easyrsa_dir: "/usr/share/easy-rsa"
 openvpn_client:
   - zaxaz
+  - iphone
 
 #network
 
